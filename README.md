@@ -20,7 +20,7 @@ To analyze and visualize insurance business performance across:
 
 * Stage funnel and pipeline analysis
 
-Product group-wise segmentation
+* Product group-wise segmentation
 
 # 📊 Key Insights
 1. Revenue Performance
@@ -60,3 +60,26 @@ Product group-wise segmentation
 * Number of invoices raised
 
 * Identification of the top contributors
+
+# 🖼️ Dashboard Previews
+ * Excel Dashboard
+   
+ * Power BI Dashboard
+   
+ * Tableau Dashboard
+   
+# 📌 KPIs Included
+
+* Revenue Achievement %
+
+* Cross-sell, Renewal, New Achieved vs Target
+
+* Number of Opportunities
+
+* Stage Funnel Revenue
+
+* Opportunity Product Distribution
+
+* Meetings by Account Executive
+
+* Invoices by Account Executive
