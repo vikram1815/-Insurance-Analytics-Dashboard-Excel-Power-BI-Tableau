@@ -10,53 +10,53 @@ This project has been built in three BI tools — Excel, Power BI, and Tableau �
 
 To analyze and visualize insurance business performance across:
 
-Cross-sell, renewal, and new business
+* Cross-sell, renewal, and new business
 
-Revenue achievements vs target
+* Revenue achievements vs target
 
-Opportunity distribution
+* Opportunity distribution
 
-Meetings and invoices by account executive
+* Meetings and invoices by account executive
 
-Stage funnel and pipeline analysis
+* Stage funnel and pipeline analysis
 
 Product group-wise segmentation
 
 # 📊 Key Insights
 1. Revenue Performance
 
-Cross-sell, Renewal, and New business are tracked with:
+* Cross-sell, Renewal, and New business are tracked with:
 
-Target
+* Target
 
-Invoice amount
+* Invoice amount
 
-Achieved revenue
+* Achieved revenue
 
-Achievement %
+* Achievement %
 
 2. Opportunity (Oppty) Analysis
 
-Product distribution across Employee Benefits, Engineering, Fire, Liability, Marine, Miscellaneous, Terrorism, etc.
+* Product distribution across Employee Benefits, Engineering, Fire, Liability, Marine, Miscellaneous, Terrorism, etc.
 
-49+ opportunities with segmentation by stage.
+* 49+ opportunities with segmentation by stage.
 
 3. Funnel & Pipeline
 
-Stage funnel includes Qualify → Negotiate → Propose Solution with total revenue contribution.
+* Stage funnel includes Qualify → Negotiate → Propose Solution with total revenue contribution.
 
-Highlights bottlenecks and strong conversion stages.
+* Highlights bottlenecks and strong conversion stages.
 
 4. Top 4 Open Opportunities
 
-Displays high-value open opportunities (e.g., 500K, 400K, 350K).
+* Displays high-value open opportunities (e.g., 500K, 400K, 350K).
 
 5. Meetings & Invoices
 
-Account executive performance:
+* Account executive performance:
 
-Number of meetings (year-wise: 2019 & 2020)
+* Number of meetings (year-wise: 2019 & 2020)
 
-Number of invoices raised
+* Number of invoices raised
 
-Identification of the top contributors
+* Identification of the top contributors
